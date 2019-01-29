@@ -20,7 +20,7 @@ If you want to run the codes, you need to install the following:
  1. Analyze_ab_test_results_notebook.html
  2. Analyze_ab_test_results_notebook.ipynb
  3. Analyze_ab_test_results_notebook.pdf
- 4.ab_data.csv
+ 4. ab_data.csv
 
  ## References and Citations
  
